@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vikram Thakor | Tender Executive</title>
+  <meta name="description" content="Portfolio website of Vikram Thakor — Tender Executive / Business Development in Civil Engineering Consultancy." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Top background blobs -->
+  <div class="bg-blobs" aria-hidden="true">
+    <span class="blob b1"></span>
+    <span class="blob b2"></span>
+    <span class="blob b3"></span>
+  </div>
+
+  <!-- Header / Navbar -->
+  <header class="site-header" id="top">
+    <nav class="nav container">
+      <a class="logo" href="#top" aria-label="Home">
+        <span class="logo-mark">VT</span>
+        <span class="logo-text">
+          <strong>Vikram</strong> Thakor
+          <small>Tender Executive</small>
+        </span>
+      </a>
+
+      <div class="nav-actions">
+        <button class="icon-btn" id="themeBtn" type="button" aria-label="Toggle theme" title="Toggle theme">
+          <span class="icon">☾</span>
+        </button>
+
+        <button class="icon-btn burger" id="menuBtn" type="button" aria-label="Open menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+
+      <div class="nav-links" id="navLinks">
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#work">Work</a>
+        <a href="#skills">Skills</a>
+        <a href="#education">Education</a>
+        <a href="#contact" class="btn btn-sm">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <main>
+    <section class="hero container">
+      <div class="hero-left">
+        <p class="pill">
+          <span class="dot"></span>
+          Business Development • Tender Executive • Civil Consultancy
+        </p>
+
+        <h1>
+          I help teams win
+          <span class="grad">Consultancy Tenders</span>
+          with accurate documentation & on-time submissions.
+        </h1>
+
+        <p class="sub">
+          End-to-end tender support: tender search, RFP requirement extraction, form preparation, proposal compilation,
+          portal uploads (NProcure & other eTender websites) and hardcopy coordination.
+        </p>
+
+        <div class="cta">
+          <a class="btn" href="#contact">Contact Me</a>
+          <button class="btn btn-ghost" id="resumeBtn" type="button">Download Resume</button>
+        </div>
+
+        <div class="meta-grid">
+          <div class="meta-card">
+            <span class="k">Location</span>
+            <span class="v">Ahmedabad, Gujarat</span>
+          </div>
+          <div class="meta-card">
+            <span class="k">Email</span>
+            <a class="v link" href="mailto:Vikramthakor760065@gmail.com">Vikramthakor760065@gmail.com</a>
+          </div>
+          <div class="meta-card">
+            <span class="k">Phone</span>
+            <a class="v link" href="tel:+917600652843">+91 76006 52843</a>
+          </div>
+          <div class="meta-card">
+            <span class="k">LinkedIn</span>
+            <a class="v link" href="http://www.linkedin.com/in/vikramthakor/" target="_blank" rel="noreferrer">
+              /in/vikramthakor
+            </a>
+          </div>
+        </div>
+
+        <div class="stats">
+          <div class="stat">
+            <div class="num">2+</div>
+            <div class="lbl">Years Experience</div>
+          </div>
+          <div class="stat">
+            <div class="num">Civil</div>
+            <div class="lbl">Consultancy Sector</div>
+          </div>
+          <div class="stat">
+            <div class="num">RFP</div>
+            <div class="lbl">Forms & Submissions</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-right">
+        <div class="profile">
+          <div class="avatar" aria-hidden="true">
+            <span>VT</span>
+          </div>
+
+          <div class="profile-body">
+            <h3>Executive – Business Development</h3>
+            <p class="muted">Tender Executive | Proposal & Documentation | eProcurement</p>
+
+            <div class="chips">
+              <span class="chip">NProcure</span>
+              <span class="chip">eTender Portals</span>
+              <span class="chip">Excel Tracking</span>
+              <span class="chip">PDF Compilation</span>
+              <span class="chip">Hardcopy Submission</span>
+            </div>
+
+            <div class="quick-links">
+              <a class="q" href="mailto:Vikramthakor760065@gmail.com">Email</a>
+              <a class="q" href="tel:+917600652843">Call</a>
+              <a class="q" href="#experience">Experience</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="note">
+          <strong>Available for:</strong>
+          Tender documentation support, proposal preparation, portal uploading and bid coordination.
+        </div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="section container" id="about">
+      <div class="section-head">
+        <h2>About</h2>
+        <p class="muted">A quick overview of what I do and how I help.</p>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>What I do</h3>
+          <ul class="list">
+            <li>Search tenders across state eProcurement portals (Consultancy, PMC, DPR, Supervision, AE/IE).</li>
+            <li>Read RFP documents and extract key requirements, forms, and submission criteria.</li>
+            <li>Create tender folders, keep documents organized, and maintain trackers for management review.</li>
+            <li>Compile technical proposals into portal-ready PDFs (compress/split as needed).</li>
+            <li>Submit bids on NProcure and other portals and coordinate hardcopy submissions.</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Strengths</h3>
+          <div class="tags">
+            <span class="tag">Attention to detail</span>
+            <span class="tag">Time management</span>
+            <span class="tag">Documentation</span>
+            <span class="tag">Communication</span>
+            <span class="tag">Data management</span>
+            <span class="tag">Bid coordination</span>
+          </div>
+
+          <div class="mini">
+            <div class="row"><span class="muted">Languages</span><b>Gujarati, Hindi, English</b></div>
+            <div class="row"><span class="muted">Role</span><b>Tender Executive / BD Executive</b></div>
+            <div class="row"><span class="muted">Focus</span><b>Civil Engineering Consultancy</b></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Experience -->
+    <section class="section container" id="experience">
+      <div class="section-head">
+        <h2>Experience</h2>
+        <p class="muted">Roles and key responsibilities.</p>
+      </div>
+
+      <div class="timeline">
+        <article class="t-item">
+          <div class="t-dot" aria-hidden="true"></div>
+          <div class="card t-card">
+            <div class="t-top">
+              <h3>Executive – Business Development (Tender Executive)</h3>
+              <div class="t-meta">
+                <span>Infinite Civil Solutions Pvt. Ltd.</span>
+                <span>Apr 2024 – Present</span>
+                <span>Ahmedabad</span>
+              </div>
+            </div>
+            <ul class="list compact">
+              <li>Conduct tender searches across portals for consultancy and infrastructure projects.</li>
+              <li>Maintain DPR/Supervision and Railway tender trackers for management decisions.</li>
+              <li>Prepare forms, compile technical proposals, upload submissions and coordinate hardcopy delivery.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="t-item">
+          <div class="t-dot" aria-hidden="true"></div>
+          <div class="card t-card">
+            <div class="t-top">
+              <h3>Computer Operator</h3>
+              <div class="t-meta">
+                <span>MaRS Planning & Engineering Services Pvt. Ltd.</span>
+                <span>Nov 2022 – Dec 2023</span>
+                <span>Ahmedabad</span>
+              </div>
+            </div>
+            <ul class="list compact">
+              <li>Downloaded tender docs from NProcure & other portals; tracked ongoing/submitted tenders.</li>
+              <li>Prepared RFP forms and formatted technical forms; compiled portal-ready PDFs.</li>
+              <li>Tracked EMD/tender fees and maintained soft copies of WO/LOA.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="t-item">
+          <div class="t-dot" aria-hidden="true"></div>
+          <div class="card t-card">
+            <div class="t-top">
+              <h3>Data Entry Operator</h3>
+              <div class="t-meta">
+                <span>Arrow Computers (C-DAC)</span>
+                <span>Jan 2021 – Jun 2021</span>
+                <span>Ahmedabad</span>
+              </div>
+            </div>
+            <ul class="list compact">
+              <li>Entered deed data into software and exported datasets to Excel; delivered work within deadlines.</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Work Areas -->
+    <section class="section container" id="work">
+      <div class="section-head">
+        <h2>Work Areas</h2>
+        <p class="muted">Types of consultancy tenders supported.</p>
+      </div>
+
+      <div class="grid-3">
+        <div class="card">
+          <h3>Highways & Infrastructure</h3>
+          <ul class="list compact">
+            <li>Authority Engineer (AE)</li>
+            <li>Independent Engineer (IE)</li>
+            <li>Construction Supervision</li>
+            <li>DPR / DDC / FLS</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Railway Projects</h3>
+          <ul class="list compact">
+            <li>PMS / PSSA / PSS</li>
+            <li>Geo-technical Surveys</li>
+            <li>Final Location Survey (FLS)</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Water & Others</h3>
+          <ul class="list compact">
+            <li>DPR (Water Supply / Dam)</li>
+            <li>Geotechnical Investigation (Metro)</li>
+            <li>Empanelment tenders</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills -->
+    <section class="section container" id="skills">
+      <div class="section-head">
+        <h2>Skills</h2>
+        <p class="muted">Core skills and tools.</p>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Core</h3>
+          <div class="bars">
+            <div class="bar"><span>Tender Documentation</span><i data-p="92"></i></div>
+            <div class="bar"><span>Proposal Submission</span><i data-p="88"></i></div>
+            <div class="bar"><span>RFP Requirement Understanding</span><i data-p="85"></i></div>
+            <div class="bar"><span>Bid Coordination</span><i data-p="82"></i></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Tools & Work Style</h3>
+          <div class="bars">
+            <div class="bar"><span>Excel / Tracking</span><i data-p="86"></i></div>
+            <div class="bar"><span>PDF Compilation</span><i data-p="84"></i></div>
+            <div class="bar"><span>Attention to Detail</span><i data-p="90"></i></div>
+            <div class="bar"><span>Time Management</span><i data-p="83"></i></div>
+          </div>
+          <p class="small muted">Skill bars animate when you scroll.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Education -->
+    <section class="section container" id="education">
+      <div class="section-head">
+        <h2>Education</h2>
+        <p class="muted">Academic background.</p>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>M.Com (Advanced Accounting & Auditing)</h3>
+          <p class="muted">Gujarat University • 2024 – 2026 (Pursuing)</p>
+        </div>
+        <div class="card">
+          <h3>B.Com (Advanced Accounting & Auditing)</h3>
+          <p class="muted">Gujarat University • 2017 – 2020 • First Class</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section container" id="contact">
+      <div class="section-head">
+        <h2>Contact</h2>
+        <p class="muted">Send a message (opens your email app).</p>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Details</h3>
+
+          <div class="contact">
+            <a class="contact-row" href="tel:+917600652843">
+              <span class="muted">Phone</span><b>+91 76006 52843</b>
+            </a>
+            <a class="contact-row" href="mailto:Vikramthakor760065@gmail.com">
+              <span class="muted">Email</span><b>Vikramthakor760065@gmail.com</b>
+            </a>
+            <a class="contact-row" href="http://www.linkedin.com/in/vikramthakor/" target="_blank" rel="noreferrer">
+              <span class="muted">LinkedIn</span><b>linkedin.com/in/vikramthakor</b>
+            </a>
+            <div class="contact-row">
+              <span class="muted">Location</span><b>Ahmedabad, Gujarat</b>
+            </div>
+          </div>
+
+          <div class="hint">
+            <strong>Tip:</strong> Keep <code>resume.pdf</code> in the same folder as <code>index.html</code>
+            for the Resume button to work.
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Quick Message</h3>
+          <form id="contactForm">
+            <label>
+              Name
+              <input name="name" placeholder="Your name" required />
+            </label>
+            <label>
+              Email
+              <input type="email" name="email" placeholder="Your email" required />
+            </label>
+            <label>
+              Message
+              <textarea name="message" rows="5" placeholder="Write your message..." required></textarea>
+            </label>
+            <button class="btn btn-full" type="submit">Send Message</button>
+            <p class="small muted">No backend needed — it will open your email client.</p>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer container">
+      <div>© <span id="year"></span> Vikram Thakor</div>
+      <a class="top-link" href="#top">Back to top ↑</a>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
